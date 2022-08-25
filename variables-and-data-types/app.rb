@@ -1,4 +1,4 @@
-# terminal output methods
+# Variables and Data Types
 ## Q1 Set variables for the corresponding values:
 
 #a number to the value 25
