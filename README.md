@@ -7,7 +7,7 @@ This repository is a complement to the Ruby course.
 in this repository is a set of related exercises. Open up the files(.rb) and read the comments to learn more about them.
 
 # Author
-LOrenah M.
+Lorenah M.
 
 # Cloning and installation
 
