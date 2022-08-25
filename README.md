@@ -13,7 +13,7 @@ Lorenah M.
 
 Clone this repository to your local machine. To do this, click on the green "Code" button at the top right of list of files and copy the link in the prompt. Then, run the following command in your terminal:
 
-    git clone <link>
+    git clone https://github.com/Skylar-Lorena/Intro-To-Ruby-Quiz
 
 This will create a folder called 'ruby-quiz' inside the directory you ran the command in.
 
