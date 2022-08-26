@@ -9,9 +9,14 @@
 
 ##Q4 Write a Ruby program which accept the user's first and last name and print them in reverse order with a 
 #space between them.
+
+require "pry"
 def name
-    puts "Clement"
+    name =  "Clement Njeru"
+    name = name.split("").reverse!.join
+    puts name
 end
+name
 
 ## Q5 Ruby program to illustrate the passing of parameters to a method
 # Output 
