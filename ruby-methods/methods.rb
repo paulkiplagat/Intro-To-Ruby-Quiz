@@ -7,10 +7,9 @@ end
 
 ## Q2 You have a string, "I love espresso", return the length of the string
 
-def output_string(value)
-    puts value.length
+def output_string("I love espresso")
+    puts "I love espresso".length
 end
-puts output_string("I love espresso")
 
 ## Q3 Write a method where var1 and var2 are the parameters. Call the method. The statements to be executed are:
 #"Phase-1 was all about Introduction to Programming."
