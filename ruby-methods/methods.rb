@@ -12,8 +12,8 @@
 def kip (var1 = "PH1ITP", var2 = "PH2REACT")
  
     #  statements to be executed
-    puts "First parameter is #{var1}"
-    puts "First parameter is #{var2}"
+    puts "First parameter is PH1ITP"
+    puts "First parameter is PH2REACT"
 end
 
 # calling method with parameters
