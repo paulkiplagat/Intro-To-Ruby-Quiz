@@ -7,6 +7,26 @@
 #"Phase-1 was all about Introduction to Programming."
 #"Phase-2 was all about React."
 
+# kip is the method name
+# var1 and var2 are the parameters
+def kip (var1 = "PH1ITP", var2 = "PH2REACT")
+ 
+    #  statements to be executed
+    puts "First parameter is PH1ITP"
+    puts "First parameter is PH2REACT"
+end
+
+# calling method with parameters
+kip "Phase-1 was all about Introduction to Programming", "Phase-2 was all about React"
+
+puts ""
+
+puts "Without Parameters"
+puts ""
+# calling method without passing parameters
+kip
+
+
 ##Q4 Write a Ruby program which accept the user's first and last name and print them in reverse order with a 
 #space between them.
 
